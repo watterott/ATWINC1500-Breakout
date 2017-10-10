@@ -20,7 +20,6 @@ ATWINC1500-Breakout with Atmel/Microchip WINC1500 WiFi Network Controller SoC an
 
 ## Hardware and Software
 * [Schematics + Layout](https://github.com/watterott/ATWINC1500-Breakout/tree/master/hardware)
-* ATWINC1500 WiFi: [Arduino Library and Examples](https://github.com/arduino-libraries/WiFi101), [Firmware Update](https://www.arduino.cc/en/Tutorial/FirmwareUpdater)
-* ATECC508A Crypto: [Arduino Library and Examples](https://github.com/thiseldo/cryptoauth-arduino)
-* [Arduino MQTT Library](https://github.com/knolleary/pubsubclient)
+* ATWINC1500 WiFi: [WiFi101 Arduino Library](https://github.com/arduino-libraries/WiFi101), [Firmware Update](https://www.arduino.cc/en/Tutorial/FirmwareUpdater) (WINC1500 Model B)
+* ATECC508A Crypto: [cryptoauth Arduino Library](https://github.com/thiseldo/cryptoauth-arduino), [AtCryptoAuthLib Arduino Library](https://github.com/CryptoThings/AtCryptoAuthLib)
 * Arduino IDE Example Sketches: ```File->Examples->WiFi101```
