@@ -3,11 +3,7 @@ ATWINC1500-Breakout with Microchip WINC1500 WiFi Network Controller SoC and Micr
 
 ![ATWINC1500-Breakout](https://github.com/watterott/ATWINC1500-Breakout/raw/master/hardware/ATWINC1500-Breakout_v10.jpg)
 
-* [Microchip ATWINC1500B](http://www.microchip.com/wwwproducts/en/ATWINC1500) WiFi Network Controller SoC
-* [Microchip ATECC508A](http://www.microchip.com/wwwproducts/en/ATECC508A) Crypto Authentication
+* [Microchip ATWINC1500B](http://www.microchip.com/wwwproducts/en/ATWINC1500) WiFi Network Controller (SPI)
+* [Microchip ATECC508A](http://www.microchip.com/wwwproducts/en/ATECC508A) Crypto Authentication (I2C)
+* Integrated WiFi and IPv4 stack
 * 3.3V - 5V tolerant IOs
-
-
-## Shop
-* [ATWINC1500-Breakout (PCB antenna)](http://www.watterott.com/en/ATWINC1500-Breakout)
-* [ATWINC1500-Breakout (uFL connector)](http://www.watterott.com/en/ATWINC1500-Breakout-uFL)
